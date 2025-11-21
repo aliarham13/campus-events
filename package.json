@@ -2,7 +2,7 @@
     "name": "campus-events",
     "version": "1.0.0",
     "description": "Campus Event Management static website for assignment",
-    "main": "src/index.html",
+    
     "scripts": {
         "start": "parcel src/index.html --open",
         "build": "parcel build src/index.html --dist-dir dist"
